@@ -1,4 +1,4 @@
 # barcampflensburg
 
 Anleitung
-Hallo, hier fehlt noch nhalt.
+Hallo, hier fehlt noch inhalt.
